@@ -88,3 +88,32 @@ Geliştirici:
 ##  Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
+
+##  Bu Proje Bana Neler Kattı
+
+Bu proje geliştirme sürecinde hem frontend hem de backend tarafında önemli deneyimler kazandım.
+
+### Teknik Kazanımlar
+
+* PHP ile dinamik web sitesi geliştirmeyi öğrendim
+* MySQL veritabanı tasarımı ve yönetimi konusunda deneyim kazandım
+* PDO kullanarak güvenli veritabanı işlemleri gerçekleştirdim
+* HTML, CSS ve Bootstrap kullanarak responsive arayüz tasarladım
+* JavaScript ve jQuery ile kullanıcı etkileşimleri geliştirdim
+* Owl Carousel ve WOW.js gibi kütüphaneler kullanarak modern UI bileşenleri oluşturdum
+* Dosya yükleme, veri güncelleme, silme ve listeleme işlemlerini içeren CRUD yapıları geliştirdim
+* Yönetim paneli oluşturarak içeriklerin dinamik olarak yönetilmesini sağladım
+
+### Yazılım Geliştirme Deneyimi
+
+* Git ve GitHub kullanarak versiyon kontrolü yaptım
+* Projeyi repository olarak yayınlayıp commit geçmişi oluşturdum
+* Branch mantığı ve ekip çalışmasına uygun geliştirme süreçlerini deneyimledim
+
+### Genel Kazanımlar
+
+* Bir kurumsal web sitesinin sıfırdan geliştirilme sürecini deneyimledim
+* Frontend ve backend entegrasyonu konusunda pratik yaptım
+* Problem çözme ve hata ayıklama becerilerimi geliştirdim
+* Gerçek bir proje üzerinde çalışarak yazılım geliştirme sürecini daha iyi kavradım
+
