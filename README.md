@@ -69,10 +69,15 @@ Panel üzerinden yönetilebilen alanlar:
 ##  Proje Görselleri
 
 Ana Sayfa
-(Yerine ekran görüntüsü ekleyebilirsin)
-
-Yönetim Paneli
-(Yerine ekran görüntüsü ekleyebilirsin)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20220604.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20221806.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20221816.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20221840.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20221958.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20222023.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20222116.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/5e91fc11425aff41fd8974da8558ff2ebbd6c69e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20222129.png)
+![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/ca26fada393ff27503bc6188976d033569277457/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20222213.png)
 
 ---
 
@@ -117,5 +122,3 @@ Bu proje geliştirme sürecinde hem frontend hem de backend tarafında önemli d
 * Problem çözme ve hata ayıklama becerilerimi geliştirdim
 * Gerçek bir proje üzerinde çalışarak yazılım geliştirme sürecini daha iyi kavradım
 
-## 📷 Proje Görselleri
-![image alt](https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/ca26fada393ff27503bc6188976d033569277457/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20222213.png)
