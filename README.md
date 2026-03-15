@@ -85,6 +85,6 @@ Geliştirici:
 
 ---
 
-## 📄 Lisans
+##  Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
