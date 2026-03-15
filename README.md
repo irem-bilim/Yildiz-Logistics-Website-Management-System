@@ -117,3 +117,4 @@ Bu proje geliştirme sürecinde hem frontend hem de backend tarafında önemli d
 * Problem çözme ve hata ayıklama becerilerimi geliştirdim
 * Gerçek bir proje üzerinde çalışarak yazılım geliştirme sürecini daha iyi kavradım
 
+## 📷 Proje Görselleri
