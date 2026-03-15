@@ -118,3 +118,4 @@ Bu proje geliştirme sürecinde hem frontend hem de backend tarafında önemli d
 * Gerçek bir proje üzerinde çalışarak yazılım geliştirme sürecini daha iyi kavradım
 
 ## 📷 Proje Görselleri
+https://github.com/irem-bilim/Yildiz-Logistics-Website-Management-System/blob/ca26fada393ff27503bc6188976d033569277457/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-03-15%20222213.png
