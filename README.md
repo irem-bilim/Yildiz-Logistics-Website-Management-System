@@ -1,4 +1,4 @@
-# 🚚 Yıldız Nakliyat Web Sitesi
+#  Yıldız Nakliyat Web Sitesi
 
 Yıldız Nakliyat için geliştirilmiş modern ve dinamik bir kurumsal web sitesidir.
 Proje, şirketin hizmetlerini tanıtmak, araç filosunu göstermek ve müşterilerle iletişim kurmasını sağlamak amacıyla geliştirilmiştir.
@@ -7,7 +7,7 @@ Site hem kullanıcı arayüzü hem de yönetim paneli içermektedir. Yönetim pa
 
 ---
 
-## 📌 Özellikler
+##  Özellikler
 
 * Modern ve responsive (mobil uyumlu) tasarım
 * Ana sayfa slider (intro)
@@ -22,7 +22,7 @@ Site hem kullanıcı arayüzü hem de yönetim paneli içermektedir. Yönetim pa
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 Frontend:
 
@@ -49,31 +49,8 @@ Araçlar:
 
 ---
 
-## ⚙️ Kurulum
 
-Projeyi çalıştırmak için:
-
-1. Repoyu klonlayın
-
-```bash
-git clone https://github.com/kullaniciadi/yildiz-nakliyat.git
-```
-
-2. Proje klasörünü WAMP veya XAMPP içindeki `www` veya `htdocs` klasörüne taşıyın.
-
-3. phpMyAdmin üzerinden veritabanı oluşturun.
-
-4. Veritabanı dosyasını içe aktarın.
-
-5. Tarayıcıdan projeyi açın:
-
-```
-http://localhost/yildiz-nakliyat
-```
-
----
-
-## 🔐 Yönetim Paneli
+##  Yönetim Paneli
 
 Site içeriklerini yönetmek için admin paneli bulunmaktadır.
 
@@ -89,7 +66,7 @@ Panel üzerinden yönetilebilen alanlar:
 
 ---
 
-## 📷 Proje Görselleri
+##  Proje Görselleri
 
 Ana Sayfa
 (Yerine ekran görüntüsü ekleyebilirsin)
@@ -99,7 +76,7 @@ Yönetim Paneli
 
 ---
 
-## 👩‍💻 Geliştirici
+##  Geliştirici
 
 Bu proje **staj sürecinde** geliştirilmiştir.
 
